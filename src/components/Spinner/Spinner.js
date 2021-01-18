@@ -1,5 +1,4 @@
-import React from 'react';
-import classes from './Spinner.css';
+import React from 'react'; 
 
 const Spinner = () => 
 // https://projects.lukehaas.me/css-loaders/
